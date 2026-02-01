@@ -1,0 +1,3 @@
+#Certificats et clés
+*.pem
+.env
